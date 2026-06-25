@@ -1,0 +1,6 @@
+path = "./"
+cmd = "node test.js"
+debounce = 1000
+clear = true
+notify = true
+ignore = ["*.log", "node_modules/", "build/"]
